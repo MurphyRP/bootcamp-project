@@ -8,7 +8,6 @@
     3. CTool Deck
 
 ##### Templates
-    Link to POT Plan and POT Findings
     https://drive.google.com/drive/u/0/folders/0B9xqOpn3NVB2QTRlSThNa3VfdmM
     
     Additional templates to follow ASAP
